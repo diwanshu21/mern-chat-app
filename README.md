@@ -52,3 +52,4 @@ yarn start
 ```
 
 Done! Now open localhost:3000 in your browser.
+# mern-chat-app
